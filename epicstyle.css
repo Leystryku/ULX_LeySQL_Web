@@ -1,0 +1,21 @@
+
+body {
+	background-image: url('background.php');
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: left top;
+    background-size: cover;
+}
+
+.ui.transparent {
+  background-color: rgba(255,255,255,0.8)!important;
+}
+
+.ui.inverted.transparent {
+  background-color: rgba(51,51,51,0.8)!important;
+}
+
+
+.search-menu {
+    width: 40%;
+   }
