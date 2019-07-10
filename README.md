@@ -16,7 +16,8 @@ ___
 ![Showcase image 4](https://github.com/Leystryku/ULX_LeySQL_Web/blob/master/img/viewingaban.png?raw=true)
 
 # Todo
-__
-Make the banlist search prettier
-Finish the user page
-Finish the admin page
+___
+
+Make the banlist search prettier  
+Finish the user page  
+Finish the admin page  
