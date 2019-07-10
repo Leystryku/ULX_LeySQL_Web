@@ -5,3 +5,18 @@
 Useful links:  
 ULX https://github.com/TeamUlysses/ulx  
 ULX LeySQL Website https://github.com/Leystryku/ULX_LeySQL  
+
+# Showcase
+___
+
+
+![Showcase image 1](https://github.com/Leystryku/ULX_LeySQL_Web/blob/master/img/dashboard.png?raw=true)
+![Showcase image 2](https://github.com/Leystryku/ULX_LeySQL_Web/blob/master/img/banlist.png?raw=true)
+![Showcase image 3](https://github.com/Leystryku/ULX_LeySQL_Web/blob/master/img/banlist_search.png?raw=true)
+![Showcase image 4](https://github.com/Leystryku/ULX_LeySQL_Web/blob/master/img/viewingaban.png?raw=true)
+
+# Todo
+__
+Make the banlist search prettier
+Finish the user page
+Finish the admin page
